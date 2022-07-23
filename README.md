@@ -28,9 +28,9 @@ Eu sou a _**Nathália Maia**_ 🙋🏻‍♀️ **estudante de ADS**, estou rede
   <br/>
   <br/>
   <br/>
-  <a href="https://instagram.com/maia.nath" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="http://discordapp.com/NaMaia#1500/762131796594262047" target="_blank"><img height="30"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathmaia/)" target="_blank"> <img height="30"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nathaliamaia.dev@gmail.com"><img height="30"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-  <a href="mailto:devmaia@outlook.com" target="_blank"><img height="30"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/maia.nath" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="http://discordapp.com/NaMaia#1500/762131796594262047" target="_blank"><img height="25"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathmaia/)" target="_blank"> <img height="25"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nathaliamaia.dev@gmail.com"><img height="25"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a href="mailto:devmaia@outlook.com" target="_blank"><img height="25"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </div>

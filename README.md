@@ -34,3 +34,5 @@ Eu sou a _**Nathália Maia**_ 🙋🏻‍♀️ **estudante de ADS**, estou rede
   <a href = "mailto:nathaliamaia.dev@gmail.com"><img height="25"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="mailto:devmaia@outlook.com" target="_blank"><img height="25"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/natmaia/natmaia/blob/output/github-contribution-grid-snake.svg)

@@ -1,7 +1,8 @@
 ### _**Hey Strange!**_ 👽
 
 Caiu aqui de paraquedas? <br/>
-Eu sou a _**Nathália Maia**_ 🙋🏻‍♀️ **estudante de ADS**, estou redescobrindo meus interesses, através dos surtos da programação.
+Eu sou a _**Nathália Maia**_ 🙋🏻‍♀️ **estudante de ADS** pela Fiap. 
+Estou redescobrindo meus interesses, através dos surtos da programação.
 
   <div align="center">
     <br/>

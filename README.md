@@ -4,10 +4,6 @@ Caiu aqui de paraquedas? <br/>
 Eu sou a _**Nathália Maia**_ 🙋🏻‍♀️ **estudante de ADS** pela Fiap. 
 Estou redescobrindo meus interesses, através dos surtos da programação.
 
-  <div align="center">
-    <br/>
-    <a href="https://github.com/natmaia"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=natmaia&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  </div>
 
 ##
   <div>

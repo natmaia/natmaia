@@ -19,6 +19,15 @@ Estou redescobrindo meus interesses, através dos surtos da programação.
 </div>
 
 ##
+<div align="center">
+  <a href="https://github.com/natmaia">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natmaia&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+
+##
+
 <div>
   <img align="right" alt="natmaia" height="250" src="https://user-images.githubusercontent.com/105464103/180592194-23314cc1-5474-4005-87ed-d7e5ee19199b.png">
   <br/>
